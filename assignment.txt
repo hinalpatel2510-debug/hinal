@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the MAIN branch version."
+=======
+This is the UPDATED text from the feature branch.
+>>>>>>> feature-branch
